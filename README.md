@@ -44,7 +44,7 @@ Amaç, verilen görüntüleri altı sınıftan birine doğru şekilde sınıflan
 Bu projeyi kendi bilgisayarınızda çalıştırmak için adımlar şunlardır:
 
 1. Projeyi bilgisayarınıza indirin (repo’yu kopyalamak için):  
-   git clone https://github.com/AhmetEmreOzumagi/Akbank-Bootcamp-Project.git
+   git clone https://github.com/ebus99/Akbank-Bootcamp_Project.git
 
 2. İndirilen klasörün içine ve ardından UI klasörüne gidin:  
    cd Akbank-Bootcamp-Project  
