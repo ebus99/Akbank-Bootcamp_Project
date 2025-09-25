@@ -1,7 +1,7 @@
 # 🌍 Akbank Bootcamp Project
 
 ## 👥 Takım Üyeleri
-- Ahmet Emre Özumağı 
+- Ahmet Emre Özumağı
 - Elif Büşra Çaylan  
 
 ## 📂 Proje Açıklaması
